@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "out": "debug/scrypt.js",
+        "sourceMap": true,
+        "inlineSources": true,
+        "allowJs": true
+    },
+    "files": [
+       // "lib/smix.js",
+       // "lib/pbkdf2.js",
+       "src/WorkerMain.ts"
+    ]
+}
