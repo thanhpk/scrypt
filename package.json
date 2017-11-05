@@ -1,0 +1,23 @@
+{
+  "name": "scrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhpk/scrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhpk/scrypt/issues"
+  },
+  "homepage": "https://github.com/thanhpk/scrypt#readme",
+  "devDependencies": {
+    "typescript": "^2.6.1",
+    "uglify-js": "^2.7.5"
+  }
+}
